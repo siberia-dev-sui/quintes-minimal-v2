@@ -1,0 +1,1 @@
+chrome-extension://lahhiofdgnbcgmemekkmjnpifojdaelb/src/content/toolbar-injector.js

@@ -1,0 +1,1 @@
+chrome-extension://acmacodkjbdgmoleebolmdjonilkdbch/webextension-polyfill.js
